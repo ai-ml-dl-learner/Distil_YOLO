@@ -59,4 +59,15 @@ To showcase the results, an interactive web application (`app_with_diagram.py`) 
     ```
     Now, open your web browser to the local URL provided by Streamlit to start using the application.
 
+5.  To run in vs code just run the files
+
+   ```
+   python my_model_inference.py
+
+   ```
+```
+python yolo_inference.py
+```
+
+
 
