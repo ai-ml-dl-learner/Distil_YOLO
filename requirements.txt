@@ -1,0 +1,12 @@
+# Core deep learning and computer vision
+ultralytics
+torch
+torchvision
+opencv-python
+
+# Web application for demonstration
+streamlit
+
+# General utilities
+numpy
+Pillow
